@@ -14,7 +14,7 @@ let package = Package(
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
-        .package(url: "https://github.com/robbiehanson/CocoaAsyncSocket", from: "7.6.4"),
+        .package(url: "https://github.com/robbiehanson/CocoaAsyncSocket", from: "7.6.5"),
         .package(url: "https://github.com/svdo/swift-netutils", from: "4.1.0"),
     ],
     targets: [
